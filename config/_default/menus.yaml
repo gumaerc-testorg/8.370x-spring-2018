@@ -3,15 +3,15 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
-- identifier: external-e56a535c298e49a09ddc07ae4cedb338
+- identifier: external-768ba826072348a78866b55028b26a88
   name: Quantum Information Science I, Part 1
   url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/about
   weight: 1000
-- identifier: external-a6b146479fb641e0ba32692dbd88aab2
+- identifier: external-d7237a1c4f894616b95870ef52e1388c
   name: Quantum Information Science I, Part 2
   url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.2x+1T2018/about
   weight: 1010
-- identifier: external-d4aeb6531f2c4bc6bfd6bcf4da9269ef
+- identifier: external-7332b397c69e47eab7059adaa6565270
   name: Quantum Information Science I, Part 3
   url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.3x+1T2018/about
   weight: 1020
